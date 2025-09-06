@@ -30,7 +30,7 @@
 - JavaScript 
 
 ## מבנה קבצים
-- `pomodoroTimer.html` – קובץ HTML ראשי
+- `index.html` – קובץ HTML ראשי
 - `pomodoroTimer.js` – לוגיקת טיימר ואינטראקציות ממשק משתמש
 - `pomodoroTimer.css` – עיצובים ועיצוב רספונסיבי
 - `backtowork.mp3`, `break.mp3`, `button-sound.mp3` – אפקטים קוליים
